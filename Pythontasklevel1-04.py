@@ -1,5 +1,5 @@
 """
-Create a function that takes a sentence and prints the sentence without duplicated words
+Create a function that takes a sentence and prints the sentence without duplicated words.
 """
 def no_duplicated_words(sentence):
     words = sentence.split()
